@@ -1,0 +1,133 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 946px;
+  min-height: 577px;
+  background-image: none;
+  margin: 0 auto 0 20px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 27px 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3.75rem;
+  margin: 0 273px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-style: normal;
+  margin: 33px -174px 0 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 279px;
+  margin: 46px -57px 0 137px;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: auto;
+}
+
+.u-section-1 .u-btn-1 {
+  margin-left: auto;
+  width: 100%;
+  border-style: none;
+  font-weight: 700;
+  font-size: 1.125rem;
+  letter-spacing: 2px;
+  background-image: none;
+  text-transform: uppercase;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    width: 940px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 450px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 866px;
+    margin-left: 134px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 209px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 660px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 157px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-left: 25px;
+    margin-right: 25px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 485px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    margin-right: 99px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 320px;
+  }
+}
